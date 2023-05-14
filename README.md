@@ -1,5 +1,5 @@
 # minimal-goland-seed
-Seed to estart golang server with:
+Seed to start golang server with:
 - gin 
 - logrus 
 - prometheus
