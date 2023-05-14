@@ -1,5 +1,8 @@
 # minimal-goland-seed
-Is a sample for golang gin server with logrus and prometheus
+Seed to estart golang server with:
+- gin 
+- logrus 
+- prometheus
 
 
 ## How to run
